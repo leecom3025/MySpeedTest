@@ -20,7 +20,7 @@ public class Constants {
 
     /* Ping */
     public static final double PING_WARMUP_SEQUENCE_GAP = 0.2f;
-    public static final Address PING_SEQUENCE_ADDRESS = new Address("143.215.131.173", "Atlanta, GA", "ping");
+    public static final Address PING_SEQUENCE_ADDRESS = new Address("143.215.131.173", "Atlanta, GA");
     public static final int PING_SEQUENCE_TOTAL = 20;
     public static final String PING_SEQUENCE_VERSION = "1";
 
